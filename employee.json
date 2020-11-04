@@ -1,0 +1,49 @@
+[
+  {
+    "name": "traxex",
+    "position": "dokter",
+    "username": "drow_ranger",
+    "password": "123123",
+    "login": false
+  },
+  {
+    "name": "yunero",
+    "position": "admin",
+    "username": "juggernaut",
+    "password": "101010",
+    "login": false
+  },
+  {
+    "name": "riki",
+    "position": "admin",
+    "username": "rikimaru",
+    "password": "123123",
+    "login": false
+  },
+  {
+    "name": "voljin",
+    "position": "dokter",
+    "username": "witch_doctor",
+    "password": "123213",
+    "login": false
+  },
+  {
+    "name": "lanaya",
+    "position": "templar",
+    "username": "yuji",
+    "password": "123123",
+    "login": false
+  },
+  {
+    "name": "mortred",
+    "username": "phantom",
+    "password": "admin",
+    "login": false
+  },
+  {
+    "name": "mirana",
+    "username": "moon",
+    "password": "admin",
+    "login": false
+  }
+]

@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "name": "bambang",
+      "diagnosis": [
+        "pusing",
+        "mual",
+        "ngantuk"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "lala",
+      "diagnosis": [
+        "pilek",
+        "bibir pecah-pecah"
+      ]
+    }
+  ] 
